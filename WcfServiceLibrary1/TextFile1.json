@@ -1,0 +1,26 @@
+[
+	{
+		"Name": "Hyatt",
+		"Id": "1",
+		"rating": "4",
+		"price": "1000"
+	},
+	{
+		"Name": "Lalit",
+		"Id": "2",
+		"rating": "4",
+		"price": "1000"
+	},
+	{
+		"Name": "Taj",
+		"Id": "3",
+		"rating": "4",
+		"price": "1000"
+	},
+	{
+		"Name": "Novotel",
+		"Id": "4",
+		"rating": "4",
+		"price": "1000"
+	}
+]

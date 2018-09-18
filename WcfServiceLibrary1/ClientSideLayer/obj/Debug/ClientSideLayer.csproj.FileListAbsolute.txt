@@ -1,0 +1,13 @@
+C:\Users\rnayyar\source\repos\WcfServiceLibrary1\ClientSideLayer\bin\Debug\ClientSideLayer.exe.config
+C:\Users\rnayyar\source\repos\WcfServiceLibrary1\ClientSideLayer\bin\Debug\ClientSideLayer.exe
+C:\Users\rnayyar\source\repos\WcfServiceLibrary1\ClientSideLayer\bin\Debug\ClientSideLayer.pdb
+C:\Users\rnayyar\source\repos\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.exe
+C:\Users\rnayyar\source\repos\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.pdb
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\bin\Debug\ClientSideLayer.exe.config
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\bin\Debug\ClientSideLayer.exe
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\bin\Debug\ClientSideLayer.pdb
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.csprojResolveAssemblyReference.cache
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.exe
+C:\Users\rnayyar\Desktop\WcfServiceLibrary1\ClientSideLayer\obj\Debug\ClientSideLayer.pdb
